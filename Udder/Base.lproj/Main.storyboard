@@ -34,6 +34,10 @@
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="milk-header image" translatesAutoresizingMaskIntoConstraints="NO" id="Mma-KD-slo">
+                                <rect key="frame" x="20" y="438" width="374" height="411"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
@@ -44,4 +48,7 @@
             <point key="canvasLocation" x="131.8840579710145" y="126.5625"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="milk-header image" width="139" height="150"/>
+    </resources>
 </document>
